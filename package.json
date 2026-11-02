@@ -1,0 +1,2 @@
+{ "name": "dockgate-paypal", "version": "0.1.0", "license": "MIT", "private": true,
+  "scripts": { "start": "node server.js", "test": "node test/run.js" }, "engines": { "node": ">=20" } }
